@@ -1,0 +1,97 @@
+Occur   Words
+23	et	
+06	filii	
+03	quoque	
+03	genuit	
+03	Chus	
+03	autem	
+02	vero	
+02		
+02	Rechma	
+02	Saba	
+02	Mesraim	
+02	porro	
+02	Iavan	
+02	Gomer	
+02	Ham	
+01	Ematheum	
+01	Samareum	
+01	Aradium	
+01	1:16	
+01	Asineum	
+01	Aruceum	
+01	Evheumque	
+01	1:15	
+01	Gergeseum	
+01	Amorreum	
+01	Iebuseum	
+01	1:14	
+01	Heth	
+01	primogenitum	
+01	Sidonem	
+01	Chanaan	
+01	1:13	
+01	Capthurim	
+01	Philisthim	
+01	sunt	
+01	egressi	
+01	quibus	
+01	de	
+01	Chasluim	
+01	Phethrosim	
+01	1:12	
+01	Nepthuim	
+01	Laabim	
+01	Anamim	
+01	Ludim	
+01	1:11	
+01	terra	
+01	in	
+01	potens	
+01	esse	
+01	coepit	
+01	iste	
+01	Nemrod	
+01	1:10	
+01	Dadan	
+01	Sabathaca	
+01	et	
+01	Sabatha	
+01	Evila	
+01	1:9	
+01	Chanaan	
+01	Phut	
+01	1:8	
+01	Dodanim	
+01	Cetthim	
+01	Tharsis	
+01	Elisa	
+01	1:7	
+01	Thogorma	
+01	Rifath	
+01	Aschenez	
+01	1:6	
+01	Thiras	
+01	Mosoch	
+01	Thubal	
+01	Madai	
+01	Magog	
+01	Iafeth	
+01	1:5	
+01	Iafeth	
+01	Sem	
+01	Noe	
+01	1:4	
+01	Lamech	
+01	Matusale	
+01	Enoch	
+01	1:3	
+01	Iared	
+01	Malelehel	
+01	Cainan	
+01	1:2	
+01	Enos	
+01	Seth	
+01	Adam	
+01	1:1	
+
